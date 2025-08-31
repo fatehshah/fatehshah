@@ -24,37 +24,37 @@ interests:
 </div>
 Find Me
 
-<a href="mailto:syedfateh855@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehmoodawan0158@gmail.com.com-blue?style=for-the-badge&logo=email"></a>
+<a href="mailto:syedfateh855@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fatehshah855@gamil.com.com-blue?style=for-the-badge&logo=email"></a>
 
 ## 🔥 GitHub Stats
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmoodshahidawan8&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmoodshahidawan8&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatehshah&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatehshah&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
   
 </p>
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmoodshahidawan8&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatehshah&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 </p>
 </br>
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Mehmoodshahidawan8">
+  <a href="https://github.com/fatehshah">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mehmoodshahidawan8&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=mehmoodshahidawan8&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mehmoodshahidawan8&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fatehshah&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fatehshah&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=fatehshah&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
 <br />
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mehmoodshahidawan8&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ashishyadavcs" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=fatehshah&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ashishyadavcs" style="padding-right:20px;" />
 </p>
 </br>
 <h3 align="left">Languages and Tools:</h3>
@@ -65,7 +65,7 @@ Find Me
 - 👷‍♂️ [CIvil Engineer Website Front-End](https://github.com/Mehmoodshahidawan8/Civil-Engineer-website)
 - 📝 [Calculator](https://github.com/Mehmoodshahidawan8/Calculator)
 - 👨‍💻 [PORTFOLIO](https://github.com/Mehmoodshahidawan8/PORTFOLIO)
-- 🌸 [Dynamic Flower](https://github.com/Mehmoodshahidawan8/Flowers)
+- 🌸 [Dynamic Flower]|
 <p align="right">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
