@@ -24,7 +24,7 @@ interests:
 </div>
 Find Me
 
-<a href="mailto:syedfateh855@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fatehshah855@gamil.com.com-blue?style=for-the-badge&logo=email"></a>
+<a href="mailto:syedfateh855@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fatehshah855@gamil.com-blue?style=for-the-badge&logo=email"></a>
 
 ## 🔥 GitHub Stats
 
