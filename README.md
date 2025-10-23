@@ -52,6 +52,8 @@
   🎖️ **Airport Reservation System** — Developed in *C* (Semester Project)  
   🤖 **Line Following Robot** — Arduino-based, programmed in *C++ (OOP)*  
   ☁️ **Cloud Storage Management System** — *Python/C++* (In Progress)   
+  🛒 E-Commerce Database System — Designed and implemented a structured database for managing users, products, and orders using MySQL and relational concepts.
+
 
 </div>
 
