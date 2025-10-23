@@ -90,9 +90,6 @@
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
 
   ## 🌐 Connect With Me  
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
-
-  ## 🌐 Connect With Me  
 
   <a href="https://github.com/fatehshah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
