@@ -5,10 +5,11 @@
 <div align="center" style="background-color:#0d1117; padding:25px; border-radius:12px;">
 
   ### 👋 Hey there, I'm **Syed Muhammad Fateh Shah**
-  🎓 *Software Engineering Student @ CECOS University, Peshawar*  
+  🎓 *3rd Software Engineering Student In CECOS University, Peshawar*  
   💻 *Beginner in the feild of Developer | Clicks Nature Moments Through My Lense | Gaming*  
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Developer+%7C+Content+Creator;Passionate+Gamer+%7C+Photographer+%7C+Tech+Explorer;Learning%2C+Building%2C+and+Innovating+Everyday)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Passionate+Gamer;Interested+in+Technology;Capturing+Moments+of+Nature+Through+My+Lens;Graphic+Designer;Learning+and+Developing+Everyday)](https://git.io/typing-svg)
+
 
   ---
   **Role:** Software Engineer | Learning Developing | Graphic Designer | Passionate Gamer | Beginner Photographer  
@@ -85,6 +86,9 @@
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
 
   ## 🌐 Connect With Me  
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
+
+  ## 🌐 Connect With Me  
 
   <a href="https://github.com/fatehshah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -93,18 +97,28 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_fateh01_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Main%20Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Main Instagram"/>
   </a>
   <a href="https://www.instagram.com/peacein_frames/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/🎞️%20Photography%20Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Photography Instagram"/>
   </a>
-  
+  <a href="https://www.tiktok.com/@_fateh01_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://www.youtube.com/@mentalgaming-01-03" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
   <a href="mailto:syedfateh855@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-</div>
+  <br/><br/>
+  <p style="color:#58a6ff; font-size:16px;">
+    💻 Let's connect and create something meaningful together....where code meets creativity 🎨📸🎮
+  </p>
 
+</div>
+ 
 ---
 
 <!-- ✍️ QUOTE -->
