@@ -92,7 +92,7 @@
   <a href="https://www.linkedin.com/in/syed-muhammad-fateh-shah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/peaceinframes" target="_blank">
+  <a href="https://www.instagram.com/_fateh01_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:syedfateh855@gmail.com">
