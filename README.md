@@ -30,6 +30,8 @@
 </div>
 
 ---
+<!-- 🏅 CERTIFICATES -->
+<div align="center" style="background-color:#0d1117; padding:25px; border-radius:12px;">
 
   ## 🏅 Certificates
 
@@ -79,8 +81,6 @@
 
 ---
 
-<!-- 🏅 CERTIFICATES -->
-<div align="center" style="background-color:#0d1117; padding:25px; border-radius:12px;">
 
 
 
