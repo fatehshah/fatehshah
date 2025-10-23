@@ -31,6 +31,30 @@
 
 ---
 
+  ## 🏅 Certificates
+
+  🧠 **Logic Rush 2025** — Organized by CECOS in collaboration with ACM & IEEE  
+  🎨 **Graphic Designer (1+ Year)** — Kaar-e-Kamal Welfare Organization  
+  🖌️ **Graphic Designer (8 Months)** — Career Development Center, CECOS University  
+  💪 **Certificate of Social Worker** — Kaar-e-Kamal Welfare Organization  
+
+</div>
+
+---
+
+<!-- 🚀 PROJECTS -->
+<div align="center" style="background-color:#0d1117; padding:25px; border-radius:12px;">
+
+  ## 🚀 Projects
+
+  🎖️ **Airport Reservation System** — Developed in *C* (Semester Project)  
+  🤖 **Line Following Robot** — Arduino-based, programmed in *C++ (OOP)*  
+  ☁️ **Cloud Storage Management System** — *Python/C++* (In Progress)   
+
+</div>
+
+
+--- 
 <!-- ⚙️ TECH STACK -->
 <div align="center" style="background-color:#0d1117; padding:25px; border-radius:12px;">
 
@@ -58,27 +82,7 @@
 <!-- 🏅 CERTIFICATES -->
 <div align="center" style="background-color:#0d1117; padding:25px; border-radius:12px;">
 
-  ## 🏅 Certificates
 
-  🧠 **Logic Rush 2025** — Organized by CECOS in collaboration with ACM & IEEE  
-  🎨 **Graphic Designer (1+ Year)** — Kaar-e-Kamal Welfare Organization  
-  🖌️ **Graphic Designer (8 Months)** — Career Development Center, CECOS University  
-  💪 **Certificate of Social Worker** — Kaar-e-Kamal Welfare Organization  
-
-</div>
-
----
-
-<!-- 🚀 PROJECTS -->
-<div align="center" style="background-color:#0d1117; padding:25px; border-radius:12px;">
-
-  ## 🚀 Projects
-
-  🎖️ **Airport Reservation System** — Developed in *C* (Semester Project)  
-  🤖 **Line Following Robot** — Arduino-based, programmed in *C++ (OOP)*  
-  ☁️ **Cloud Storage Management System** — *Python/C++* (In Progress)   
-
-</div>
 
 ---
 
