@@ -6,22 +6,21 @@
 
   ### 👋 Hey there, I'm **Syed Muhammad Fateh Shah**
   🎓 *Software Engineering Student @ CECOS University, Peshawar*  
-  💻 *Aspiring Developer | Creative Technologist | Visual Storyteller*  
+  💻 *Beginner in the feild of Developer | Clicks Nature Moments Through My Lense | Gaming*  
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Developer+%7C+Content+Creator;Passionate+Gamer+%7C+Photographer+%7C+Tech+Explorer;Learning%2C+Building%2C+and+Innovating+Everyday)](https://git.io/typing-svg)
 
   ---
-  **Role:** Software Engineer | Developer | Content Creator | Passionate Gamer | Beginner Photographer  
+  **Role:** Software Engineer | Learning Developing | Graphic Designer | Passionate Gamer | Beginner Photographer  
   **Experience:**  
   • Database & Web Development  
-  • Open Source Contributions  
   • Graphic Design (1+ Year)  
   • Social Work (Kaar-e-Kamal Welfare Organization)  
   
   **Interests:**  
   • Game Development  
   • Machine Learning & AI  
-  • UI/UX & Graphic Design  
+  • Graphic Design  
   • Photography — blending art and technology to capture nature with creativity  
   • Continuous Learning & Innovation  
 
@@ -36,7 +35,7 @@
 
   ## 🧰 Tech Stack & Tools
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,mysql,mongodb,java,linux,git,github,canva,photoshop,illustrator,tailwind,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,canva,vscode" />
   
 </div>
 
@@ -60,10 +59,10 @@
 
   ## 🏅 Certificates
 
-  🧠 **Logic Rush 2025** — Organized by CECOS (in collaboration with ACM & IEEE)  
+  🧠 **Logic Rush 2025** — Organized by CECOS in collaboration with ACM & IEEE  
   🎨 **Graphic Designer (1+ Year)** — Kaar-e-Kamal Welfare Organization  
   🖌️ **Graphic Designer (8 Months)** — Career Development Center, CECOS University  
-  💪 **Certificate of Social Work** — Kaar-e-Kamal Welfare Organization  
+  💪 **Certificate of Social Worker** — Kaar-e-Kamal Welfare Organization  
 
 </div>
 
@@ -74,10 +73,9 @@
 
   ## 🚀 Projects
 
-  🎖️ **Airport Reservation System** — Developed in *C++* (Semester Project)  
+  🎖️ **Airport Reservation System** — Developed in *C* (Semester Project)  
   🤖 **Line Following Robot** — Arduino-based, programmed in *C++ (OOP)*  
-  ☁️ **Cloud Storage Management System** — *Python/C++* (In Progress)  
-  🎮 **Game Development Experiments** — Exploring *Unity* and *C#*  
+  ☁️ **Cloud Storage Management System** — *Python/C++* (In Progress)   
 
 </div>
 
