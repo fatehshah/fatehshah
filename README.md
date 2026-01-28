@@ -102,7 +102,7 @@
   <a href="https://www.instagram.com/_fateh01_/" target="_blank">
     <img src="https://img.shields.io/badge/Main%20Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Main Instagram"/>
   </a>
-  <a href="https://www.instagram.com/peacein_frames/" target="_blank">
+  <a href="https://www.instagram.com/fateh_shotz/" target="_blank">
     <img src="https://img.shields.io/badge/🎞️%20Photography%20Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Photography Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@_fateh01_" target="_blank">
